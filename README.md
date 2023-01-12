@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Ahmed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmoselhi&theme=github_dark)
+[![Ahmed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmoselhi&theme=dark&background=000000)
 ](https://github.com/ahmedmoselhi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmoselhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Just a noobie trying to do something.....
 
