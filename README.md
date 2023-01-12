@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmoselhi&theme=github_dark)
+[![Ahmed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmoselhi&theme=github_dark)
 ](https://github.com/ahmedmoselhi)
 
 ### Just a noobie trying to do something.....
